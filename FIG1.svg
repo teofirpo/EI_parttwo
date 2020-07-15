@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 16.0 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="3.58in" height="2.60in" viewBox="0 0 2574 1872" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - Graph</desc>
+	<rect x="0" y="0" width="2574" height="1872" style="fill:#FFFFFF;stroke:none"/>
+	<rect x="0.00" y="0.00" width="2573.92" height="1872.00" style="fill:#FFFFFF"/>
+	<rect x="1.50" y="1.50" width="2570.92" height="1869.00" style="fill:none;stroke:#FFFFFF;stroke-width:3.00"/>
+	<rect x="440.48" y="381.37" width="2067.89" height="1327.58" style="fill:#FFFFFF"/>
+	<rect x="441.98" y="382.87" width="2064.89" height="1324.58" style="fill:none;stroke:#FFFFFF;stroke-width:3.00"/>
+	<rect x="699.65" y="972.76" width="774.77" height="736.19" style="fill:#A6C2DE"/>
+	<rect x="701.15" y="974.26" width="771.77" height="733.19" style="fill:none;stroke:#2166AC;stroke-width:3.00"/>
+	<rect x="1474.42" y="769.09" width="774.77" height="939.86" style="fill:#E0A3AA"/>
+	<rect x="1475.92" y="770.59" width="771.77" height="936.86" style="fill:none;stroke:#B2182B;stroke-width:3.00"/>
+	<line x1="1087.03" y1="1231.54" x2="1087.03" y2="713.99" style="stroke:#808080;stroke-width:3.00"/>
+	<line x1="1072.71" y1="713.99" x2="1101.35" y2="713.99" stroke-linecap="round" style="stroke:#808080;stroke-width:3.00"/>
+	<line x1="1072.71" y1="1231.54" x2="1101.35" y2="1231.54" stroke-linecap="round" style="stroke:#808080;stroke-width:3.00"/>
+	<line x1="1861.81" y1="930.93" x2="1861.81" y2="607.32" style="stroke:#808080;stroke-width:3.00"/>
+	<line x1="1847.49" y1="607.32" x2="1876.12" y2="607.32" stroke-linecap="round" style="stroke:#808080;stroke-width:3.00"/>
+	<line x1="1847.49" y1="930.93" x2="1876.12" y2="930.93" stroke-linecap="round" style="stroke:#808080;stroke-width:3.00"/>
+	<line x1="440.48" y1="1708.95" x2="440.48" y2="381.37" style="stroke:#000000;stroke-width:3.00"/>
+	<text x="401.46" y="1731.72" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" text-anchor="end">0%</text>
+	<text x="401.46" y="1479.30" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" text-anchor="end">20%</text>
+	<text x="401.46" y="1226.88" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" text-anchor="end">40%</text>
+	<text x="401.46" y="974.45" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" text-anchor="end">60%</text>
+	<text x="401.46" y="722.11" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" text-anchor="end">80%</text>
+	<text x="401.46" y="469.69" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" text-anchor="end">100%</text>
+	<text x="155.53" y="1045.16" style="font-family:'Helvetica';font-size:78.02px;fill:#000000" transform="rotate(-90 155.53,1045.16)" text-anchor="middle">Percentage</text>
+	<line x1="440.48" y1="1708.95" x2="2508.36" y2="1708.95" style="stroke:#000000;stroke-width:3.00"/>
+	<text x="505.95" y="1767.44" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" text-anchor="middle"> </text>
+	<text x="2442.89" y="1767.44" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" text-anchor="middle"> </text>
+	<rect x="967.26" y="1735.17" width="965.97" height="121.14" style="fill:#FFFFFF"/>
+	<rect x="968.76" y="1736.67" width="962.97" height="118.14" style="fill:none;stroke:#FFFFFF;stroke-width:3.00"/>
+	<rect x="995.33" y="1763.25" width="64.99" height="65.00" style="fill:#A6C2DE"/>
+	<rect x="996.83" y="1764.75" width="61.99" height="62.00" style="fill:none;stroke:#2166AC;stroke-width:3.00"/>
+	<rect x="1543.19" y="1763.25" width="64.99" height="65.00" style="fill:#E0A3AA"/>
+	<rect x="1544.69" y="1764.75" width="61.99" height="62.00" style="fill:none;stroke:#B2182B;stroke-width:3.00"/>
+	<text x="1099.34" y="1818.51" style="font-family:'Helvetica';font-size:64.99px;fill:#000000">Rounds 1-3</text>
+	<text x="1647.20" y="1818.51" style="font-family:'Helvetica';font-size:64.99px;fill:#000000">Round 4</text>
+	<text x="440.48" y="130.98" style="font-family:'Helvetica';font-size:93.63px;fill:#000000">Percentage of women among applicants</text>
+</svg>
